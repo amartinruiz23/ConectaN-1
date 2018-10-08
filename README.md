@@ -1,1 +1,1 @@
-Proyecto desarrollado para las prácticas de la asignatura Estructura de Datos cursada en el curso 2016-2017 en la Universidad de Granada con la colaboración de [Antonio Martín Ruiz](https://github.com/amartinruiz23).
+Proyecto desarrollado para las prácticas de la asignatura Metodología de la Programación cursada en el curso 2016-2017 en la Universidad de Granada con la colaboración de [Antonio Martín Ruiz](https://github.com/amartinruiz23).
